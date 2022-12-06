@@ -1,5 +1,5 @@
 # Friend-Recommendation-System-using-Graph-Mining
-**Problem statement**
+**Problem statement** <br>
 Given a directed social graph, we want to predict missing links to recommend friends/connections and followers.
 
 **Mapping the problem**
